@@ -15,7 +15,7 @@ Este é um simples encurtador de URL construído com Python, Flask e MongoDB. El
 # Instalação
 
  1.Clone o repositório:
- Copygit clone https://github.com/natanserra/encurtador
+ Copygit clone https://github.com/natanserra/encurtador.git
  cd encurtador-url
 
  2.Instale as dependências:
